@@ -1,0 +1,28 @@
+What i have learn in Linux so far
+
+## downloaded Linux Mint as OS(Operating System) with Rufus
+---- with a flash drive download linux mint iso & rufus installed (rufus allow to boot linux using flash drive UEFI)
+
+## install firmwate, Drivers updates, install Software application. 
+---- Virtual Box with Kali Linux(Pentest/Cybersecruity related field) and Windows 10 
+
+Linux is a kernal (open-source) ##Faster, more secure
+OS is Mint, kali, parrot, fedora, ubunto, arch, etcs
+
+
+## Linux Terminal ---- Commands   
+sudo            ##give admin rights/Run a Command with Root Privileges
+sudo apt install <package_name>         ##install software/firmware/package 
+sudo apt remove <package-name>         ##remove software/firmware/package 
+sudo apt update              ##update firmware/Update Package List 
+sudo apt upgrade             ##Install package with out remove/adding new one
+sudo shutdown -h now          ##Shutdown
+sudo reboot                    ##Reboot
+
+#### Learning Linux on HackTheBox and by watching Youtube video (NetworkChuck - Linux for Hackers (and everyone) // FREE Course for Beginners)
+pwd         ##print working directory  -- tell us where we are at example: /home/user 
+ls           ##list  -- tell us what is content in current directory. can be folder,files,exe,txt, etcs
+cd              ##change directory -- move to another directory examaple /home/user/desktop
+cd ..           ##return to previous directory -- example: /home/user/desktop > /home/user > /home > / (root is the end, which is root of the file system)
+cat
+which
